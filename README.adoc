@@ -1,6 +1,7 @@
 = fotbal-parser
-
 :toc:
+:toc-title: Obsah
+:hide-uri-scheme:
 
 == O co jde
 Nebaví mě před každým zápasem opisovat jména hráčů ze zápisu utkání do TVCOM Enkodéru, tak jsem si napsal tenhle hloupoučký program, aby mi to usnadnil. Pokud chcete, můžete si s ním taky ulehčit práci. Za nic ale neručím. Disclaimer: Nejsem zaměstnanec TVCOMu ani FAČRu. Tento program je určen pro osobní použití.
@@ -10,8 +11,8 @@ Nebaví mě před každým zápasem opisovat jména hráčů ze zápisu utkání
 === První spuštění
 . Stáhněte si tento program
 .. Klikněte na Code (zelené tlačítko vpravo nahoře)
-.. Pak dole na Dovnload ZIP
-.. ZIP si stáhněte kam chcete (pokud se vás prohlížeč nezeptá, nejspíš se to stáhlo do složky Stažené soubory)
+.. Pak dole na Download ZIP
+.. ZIP si stáhněte kam chcete (pokud se vás prohlížeč nezeptá, nejspíš se to stáhlo do složky 'Stažené soubory')
 . Rozbalte ho
 .. Najděte, kam jste soubor 'fotbal-parser-main.zip' stáhli
 .. rozbalte ho (Klikněte na něj pravým tlačítkem myši a zvolte 'Extrahovat vše...')
@@ -24,6 +25,24 @@ Nebaví mě před každým zápasem opisovat jména hráčů ze zápisu utkání
 ... Zatím si je můžete prohlédnout. Pokračování v kapitole 'Import Soupisky'
 
 === Import Soupisky
+. Získejte zápis ze stránek FAČRu
+.. Jděte na https://is.fotbal.cz/zapasy/prehled-zapasu.aspx a najděte utkání, které je potřeba (je nutné vyplnit ověřovací pole)
+.. Klikněte na tlačítko ve sloupci 'Zápis' u vašeho utkání. (Před začátkem utkání by to mělo být modré 'nezahájen'. Pro plně vyplněné zápisy po konci zápasu tenhle program nejspíš ani kvůli jinému formátu nebude fungovat)
+.. Vyskočí okno se zápisem. Nic netiskněte ani nestahujte, jen vše označte a zkopírujte. (CTRL+A, pak CTRL+C)
+.. Nejděte složku, kam jste uložili program v předchozí kapitole, a přepište obsah souboru 'zapis.txt' (otevřete ten texťák, a pak CTRL+A, CTRL+V, CTRL+S)
+. Spusťe program (dvojklikem na soupiska_txt.exe -> program přepíše obsah souborů hoste.txt a domaci.txt)
+. Importujte vygenerované soupisky do TVCOM Encoderu
+.. Po spuštění encoderu postupujte: Sestavy > Import Soupisky TXT > Vyber souboru pro import
+.. Pro domácí importujte domaci.txt, pro hosty hoste.txt (oboje najdete ve složce s programem). Je pak ještě třeba v Encoderu zvolit kapitána a náhradníky
+
 
 == Otázky a odpovědi
-TODO: Q&A
+* Nemohl by program i rozlišovat, kteří hráči střídají, a kdo je kapitán, abych to nemusel dělat ručně?
+** Mohl, a nebylo by to vůbec těžké. Problém je v tom, že to můj program nemá jak sdělit TVCOM encoderu, jehož import z texťáku nic takového neumí. Pokud to TVCOM někdy přidá, třeba to pak implementuju i já. :)
+* Nemohl by program zápis ze stránek FAČRu tahat sám?
+** Teoreticky ano, prakticky ne. FAČR web žádné veřejné API neposkytuje a navíc se automatizovanému sběru dat aktivně brání všemožnými ověřovacími poli a zaškrtávátky. Pokud něco takového nechtějí, já s nimi bojovat nebudu. K tomu program neví, jaké utkání vás zajímá, takže by mu to bylo třeba nějak sdělovat a používání by se tím pádem zase tolik neulehčilo.
+* Záleží na tom, kde je program umístěn?
+** Nemělo by. Můžete si ho přesunout kamkoliv, a mělo by to být snad v poho. Jen je třeba, aby byl ve stejné složece jako exe i ten soubor zapis.txt, ze kterého se tahají data.
+* Kam můžu hlásit chyby?
+** Tento program jsem vytvořil pro vlastní použití a žádné opravování chyb neslibuji, pokud nebudou vadit při používání mě samotnému. Pokud by vás přeci jen něco trápilo, můžete zkusit založit Issue tady na GitHubu.
+
