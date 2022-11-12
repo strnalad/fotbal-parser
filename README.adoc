@@ -1,0 +1,12 @@
+= fotbal-parser
+
+:toc:
+
+== O co jde
+TODO: krátký popis/vysvětlení/disclaimer
+
+== Jak se to používá
+TODO: návod k použití
+
+== Otázky a odpovědi
+TODO: Q&A
