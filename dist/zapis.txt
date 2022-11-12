@@ -1,0 +1,150 @@
+
+	FOTBALOVÁ ASOCIACE ČESKÉ REPUBLIKY 	
+ZÁPIS O UTKÁNÍ
+	
+Soutěž: 	Fortuna ČFL B 		Kolo: 	15
+Číslo: 	A1B 		Ćíslo utkání: 	2022002A1B1501
+Ročník: 	2022 		Den: 	12.11.2022 10:15
+Domácí 5210131 - FK Chlumec nad Cidlinou 	Hosté 2040771 - SK Sparta Kolín
+R 	STIEBER Filip 	89090868 	Stadion: Chlumec n.C. / tráva
+AR1 	MATĚJKA Jakub 	95031430 	Výsledek utkání: 0:0 	Poločas utkání: :
+AR2 	ERLEBACH Jiří 	89040920 	Diváků:
+4R 			Doba hry:+ ; + 	Povrch hr. pl.:Nevyplněno
+DFA 	FILIP Jan 	83070243 	Zápis vložil: Stieber Filip (89090868)
+TD 			RA: ()
+Hráči domácí
+Č. 	Příjmení a jméno 	ID 	Stř. 	ŽK 	ČK 	Br.
+31 	
+Lichtenberg Kryštof (LS) B
+	02110892 						
+44 	
+Zukal Lukáš N
+	97050174 						
+6 	
+Labík Tomáš N
+	91120768 						
+7 	
+Krčál Jakub N
+	93032402 						
+10 	
+Bastin Tomáš (K) N
+	91121599 						
+33 	
+Čáp Roman N
+	99061312 						
+37 	
+Ruml Ondřej (LS) N
+	96070618 						
+4 	
+Zeman Tadeáš N
+	01110144 						
+12 	
+Finěk Daniel (LS) N
+	00051291 						
+8 	
+Frizoni Da Cruz Dias Bernardo N
+	90032653 						
+14 	
+Kopáč Martin N
+	92101998 						
+23 	
+Petr Radek N
+	84020962 						
+21 	
+Ludvík Jan N
+	03080822 						
+11 	
+Řezníček Vojtěch N
+	93110159 						
+17 	
+Vaníček Ondřej N
+	89120258 						
+27 	
+Žahourek Oliver N
+	00020020 						
+15 	
+Kučera Jiří N
+	93061643 						
+9 	
+Veselka Petr N
+	88101795 						
+	
+Hráči hosté
+Č. 	Příjmení a jméno 	ID 	Stř. 	ŽK 	ČK 	Br.
+19 	
+Fejfar Ondřej B
+	05020183 						
+6 	
+Hakl František N
+	89121317 						
+7 	
+Veselý Dominik N
+	95011843 						
+8 	
+Breda David (LS) N
+	96010172 						
+9 	
+Jaroš Daniel N
+	00051216 						
+10 	
+Vondráček Jiří (K) N
+	93031054 						
+12 	
+Routek Miroslav N
+	96040510 						
+15 	
+Čapek Pavel N
+	92040494 						
+16 	
+Fotr Oskar N
+	96010482 						
+24 	
+Milec Václav N
+	93021145 						
+28 	
+Soběslav Ondřej N
+	91061347 						
+3 	
+Soukup Marek N
+	05070235 						
+5 	
+Čapek Adam N
+	88110931 						
+11 	
+Sodoma Jiří N
+	95010611 						
+13 	
+Šnajdr David N
+	00010046 						
+17 	
+Mansfeld Adam N
+	99110448 						
+1 	
+Bína Daniel N
+	02120834 						
+Funkcionáři a pořadatelé domácí
+Funkce 	Příjmení a jméno 	ID 	ŽK
+Hlavní pořadatel 	Vlášek Richard 	72040627 		
+Vedoucí 	Jarkovský Jakub 	85061339 		
+Trenér 	Sazima Miloš 	76011020 		
+Asistent 1 	Hrabík Tomáš 	86091701 		
+Masér 	Sattler Manfred 	41080019 		
+	
+Funkcionáři a pořadatelé hosté
+Funkce 	Příjmení a jméno 	ID 	ŽK
+Vedoucí 	Fiši Pavel 	64070609 		
+Trenér 	Pavlík Petr 	78070897 		
+Asistent 1 	Vondráček Jiří 	93031054 		
+Asistent 2 	Dvořák Pavel 	62120263 		
+Masér 	Pelyak Denis 	96070370 		
+Kondiční trenér 	Otáhal Martin 	96051664 		
+Osobní tresty domácí
+Příjmení a jméno 	ID 	Minuta
+	
+Osobní tresty hosté
+Příjmení a jméno 	ID 	Minuta
+Střelci domácí
+P. 	Příjmení a jméno 	Typ 	ID 	Minuta
+	
+Střelci hosté
+P. 	Příjmení a jméno 	Typ 	ID 	Minuta
