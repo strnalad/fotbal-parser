@@ -3,10 +3,27 @@
 :toc:
 
 == O co jde
-TODO: krátký popis/vysvětlení/disclaimer
+Nebaví mě před každým zápasem opisovat jména hráčů ze zápisu utkání do TVCOM Enkodéru, tak jsem si napsal tenhle hloupoučký program, aby mi to usnadnil. Pokud chcete, můžete si s ním taky ulehčit práci. Za nic ale neručím. Disclaimer: Nejsem zaměstnanec TVCOMu ani FAČRu. Tento program je určen pro osobní použití.
 
 == Jak se to používá
-TODO: návod k použití
+
+=== První spuštění
+. Stáhněte si tento program
+.. Klikněte na Code (zelené tlačítko vpravo nahoře)
+.. Pak dole na Dovnload ZIP
+.. ZIP si stáhněte kam chcete (pokud se vás prohlížeč nezeptá, nejspíš se to stáhlo do složky Stažené soubory)
+. Rozbalte ho
+.. Najděte, kam jste soubor 'fotbal-parser-main.zip' stáhli
+.. rozbalte ho (Klikněte na něj pravým tlačítkem myši a zvolte 'Extrahovat vše...')
+. Vyzkoušejte ho
+.. Po rozbalení přibude složka fotbal-parser-main
+.. Najděte soubor fotbal-parser-main\dist\soupiska_txt.exe
+.. Spusťte ho dvojklikem
+... Napoprvé mu Windows asi nebude věřit. Klikněte na 'další informace' a pak na 'Přesto spustit'
+.. Kromě již existujícího soupiska_txt.exe a zapis.txt přibudou soubory hoste.txt a domaci.txt
+... Zatím si je můžete prohlédnout. Pokračování v kapitole 'Import Soupisky'
+
+=== Import Soupisky
 
 == Otázky a odpovědi
 TODO: Q&A
