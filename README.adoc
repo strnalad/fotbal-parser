@@ -30,7 +30,7 @@ Nebaví mě před každým zápasem opisovat jména hráčů ze zápisu utkání
 .. Klikněte na tlačítko ve sloupci 'Zápis' u vašeho utkání. (Před začátkem utkání by to mělo být modré 'nezahájen'. Pro plně vyplněné zápisy po konci zápasu tenhle program nejspíš ani kvůli jinému formátu nebude fungovat)
 .. Vyskočí okno se zápisem. Nic netiskněte ani nestahujte, jen vše označte a zkopírujte. (CTRL+A, pak CTRL+C)
 .. Nejděte složku, kam jste uložili program v předchozí kapitole, a přepište obsah souboru 'zapis.txt' (otevřete ten texťák, a pak CTRL+A, CTRL+V, CTRL+S)
-. Spusťe program (dvojklikem na soupiska_txt.exe -> program přepíše obsah souborů hoste.txt a domaci.txt)
+. Spusťte program (dvojklikem na soupiska_txt.exe -> program přepíše obsah souborů hoste.txt a domaci.txt)
 . Importujte vygenerované soupisky do TVCOM Encoderu
 .. Po spuštění encoderu postupujte: Sestavy > Import Soupisky TXT > Vyber souboru pro import
 .. Pro domácí importujte domaci.txt, pro hosty hoste.txt (oboje najdete ve složce s programem). Je pak ještě třeba v Encoderu zvolit kapitána a náhradníky
